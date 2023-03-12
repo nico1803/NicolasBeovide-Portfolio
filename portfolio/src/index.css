@@ -2,6 +2,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap%27');
 
 #root{
@@ -21,4 +22,5 @@ body {
   position: relative;
   padding-bottom: 7em;
   min-height: 100vh;
+  background-color: black;
 }
